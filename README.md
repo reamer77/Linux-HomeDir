@@ -8,4 +8,5 @@ Usage
 =====
 
 cp vim directory to ~/.vim
+
 cp .vimrc file to ~/.vimrc
